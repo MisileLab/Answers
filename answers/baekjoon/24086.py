@@ -1,0 +1,1 @@
+print((lambda a, b: b - a)(int(input()), int(input())))

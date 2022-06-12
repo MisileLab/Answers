@@ -1,0 +1,1 @@
+print((lambda n: n*n*n)(int(input())))
