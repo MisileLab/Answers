@@ -1,7 +1,1 @@
-# Hydrogen
-
-Some project answers
-
-## Used languages
-
-Python 3.10.5
+Moved to [this repo](https://github.com/misilelab/lor)
